@@ -5,6 +5,8 @@ import java.security.MessageDigest
 import kotlin.math.floor
 import kotlin.math.sqrt
 
+// Yeah Well Yeah. I'm Going To Build My Own Theme Park With Blackjack and Hookers
+
 fun main() {
     val phoneNumbers = File("F:\\directory.txt").readLines()
     val toFind = File("F:\\find.txt").readLines()
